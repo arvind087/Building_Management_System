@@ -1,2 +1,2 @@
 # Building_Management_System
-A website which help students choose their right career using various weekly tests like aptitude, reasoning, math's etc. This website provide full path to their career.
+A System which help you to maintain your society activities and problem. This project is build using JAVA swing.
